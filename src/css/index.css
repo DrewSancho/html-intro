@@ -3,11 +3,9 @@
 	height: 500px;
 	margin: 20px auto;
 }
-title {
-	font-family: sans-serif;
-}
-head {
+h1 {
 	color: #ccff33;
+	font-family: sans-serif;
 }
 div > p {
 	background-color: black;
